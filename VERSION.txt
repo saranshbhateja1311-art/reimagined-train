@@ -1,0 +1,6 @@
+JEE One Shot OS 4.1.0
+Architecture: JEE OS 4.5 application foundation
+Daily workflow: one chapter per day, Physics → Chemistry → Mathematics rotation
+Completion controls: lecture checkbox + question-practice checkbox only
+Calendar: month navigation, date selection, daily chapter details, completion and pending status
+Local server: http://localhost:4000
