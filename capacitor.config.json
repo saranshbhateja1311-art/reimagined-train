@@ -1,7 +1,8 @@
+
 {
-  "appId": "com.saransh.jeeoneshotos",
+  "appId": "com.saransh.jeeoneshots",
   "appName": "JEE One Shot OS",
-  "webDir": ".",
+  "webDir": "www",
   "server": {
     "androidScheme": "https"
   }
